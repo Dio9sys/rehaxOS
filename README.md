@@ -1,6 +1,8 @@
 # rehaxOS
 RehaxOS - a pentesting VM based on ReactOS
 
+![screenshot](https://raw.githubusercontent.com/Dio9sys/rehaxOS/main/Screenshot%20from%202022-08-25%2013-49-28.png)
+
 ## What is RehaxOS?
 RehaxOS is a red team 32 bit virtual machine based on ReactOS 0.4.14.
 
